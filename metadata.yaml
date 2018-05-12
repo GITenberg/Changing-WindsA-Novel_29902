@@ -1,0 +1,34 @@
+_repo: Changing-WindsA-Novel_29902
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29902-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ervine, St. John G. (St. John Greer)
+    aliases:
+    - Ervine, John St. John Greer
+    - Ervine, Saint John G. (Saint John Greer)
+    birthdate: 1883
+    deathdate: 1971
+    gutenberg_agent_id: '3061'
+    url: http://www.gutenberg.org/2009/agents/3061
+    wikipedia: http://en.wikipedia.org/wiki/St._John_Greer_Ervine
+description: A discussion-novel with the interlocutors, an unheroic hero, his more
+  virile, disappointed father and some other well-defined characters who are personally
+  less attractive.
+gutenberg_issued: '2009-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29902'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+title: 'Changing Winds
+
+  A Novel'
+url: http://www.gutenberg.org/ebooks/29902
